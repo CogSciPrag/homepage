@@ -17,7 +17,7 @@ title: CogSciPrag
 email: mchfranke@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
     This is the website for the Cognitive Science of Pragmatics (CogSciPrag) group, headed by Michael Franke at the Department of Linguistics at the University of Tuebingen,
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/homepage" # the subpath of your site, e.g. /blog
 url: "https://cogsciprag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CogSciPrag
 # Added by Fausto 26/01/23
