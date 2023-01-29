@@ -26,6 +26,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem 'jekyll-scholar' # Added by Juliane 29/01/23 to install jekyll-scholar for .bib file referencing on the website
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
