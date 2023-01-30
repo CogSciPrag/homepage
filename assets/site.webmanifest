@@ -1,10 +1,10 @@
 {
-  
+  "lang": "en",
   "name": "CogSciPrag",
   "short_name": "CogSciPrag",
   "description": "This is the website for the Cognitive Science of Pragmatics (CogSciPrag) group, headed by Michael Franke at the Department of Linguistics at the University of Tuebingen,",
   "start_url": "/homepage/?utm_source=homescreen",
-  "theme_color": "rgb(8,46,57)",
+  "theme_color": "rgb(25,55,71)",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "minimal-ui",
