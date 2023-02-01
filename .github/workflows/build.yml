@@ -3,7 +3,7 @@ name: Build
 on: 
   push:
     branches:
-    - source
+    - main
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
       with:
-        ref: source
+        ref: main
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
       with:
@@ -31,11 +31,11 @@ jobs:
         set -xo pipefail
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout main
+        git checkout pages
         ls -Q | grep -v _site | xargs rm -rf
         mv _site/* .
         rm -rf _site
         [[ -n "$(git status --porcelain)" ]] || exit 0
         git add .
-        git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
-        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" main
+        git commit -m "Build $(git rev-parse main | grep -o '^.\{10\}')"
+        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" pages
