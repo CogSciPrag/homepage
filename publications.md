@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-{% bibliography --cited %}
+{% bibliography %}

@@ -16,7 +16,7 @@ gem "jekyll-theme-hydejack", "~> 9.1"
 # KaTeX during site building.
 #
 # There are a couple of things to know about this gem:
-# *  It is not supported on GitHub Pages. 
+# *  It is not natively supported on GitHub Pages. 
 #    You have to build the site on your machine before uploading to GitHub,
 #    or use a more permissive cloud building tool such as Netlify.
 # *  You need some kind of JavaScript runtime on your machine.
