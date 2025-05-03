@@ -252,6 +252,9 @@ hydejack:
 scholar:
   sort_by: "descending"
   order: "descending"
+  group_by: "year"
+  group_order: "descending"
+  
 bibliography_list_attributes:
   reversed: "reversed"
 # Collections
