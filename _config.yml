@@ -252,6 +252,8 @@ hydejack:
 scholar:
   sort_by: "descending"
   order: "descending"
+bibliography_list_attributes:
+  reversed: "reversed"
 # Collections
 # ----------------------------------------------------------------------------------------
 
