@@ -42,8 +42,7 @@ TBD
 <!-- I am a post-doctoral researcher at the Department of Linguistics at the University of Tübingen. --> 
 <!-- In my research, I aim for an interdisciplinary perspective, combining methods and insights from theoretical linguistics, psycho- and neurolinguistics, and Bayesian statistical modelling to elucidate how natural language is used and processed, and to characterize language from a dynamic interactive perspective between speaker(s), listener(s) and context in a wide sense. -->
 <!-- I am broadly interested in the semantics/pragmatics interface, probabilistic pragmatic modelling, and cognitive mechanisms involved in language processing. --> 
-* [Fausto Carcassi](https://thelogicalgrammar.github.io/)
-I am a Sardinian researcher at the University of Tübingen, where I am doing a Marie Skłodowska-Curie Actions Individual Fellowship with Michael Franke. In this project, I apply various methods, both computational and experimental, to further our understanding of plausible deniability. 
+* [Fausto Carcassi](https://thelogicalgrammar.github.io/) 
 * [Max Gupta](https://hmc-lab.com/people/max_gupta/index.md)
 
 <!-- * Michael's students? -->
