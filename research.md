@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About us
-permalink: /aboutus/
+title: Research
+permalink: /research/
 ---
 
 The unifying topic of our group is understanding pragmatic language interpretation and production. This means that we are looking at natural language *in context* which may combine the visual world, common knowledge etc, and is *used by agents*, human or artificial, to achieve various goals. Our research also involves topics in psycholinguistics and cognitive modeling. Our projects also usuallly involve some Bayesian component.
